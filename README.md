@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 저는 혜선입니다.
 
 <!--
 **devssun/devssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevssun%2Fhit-counter)](https://hits.seeyoufarm.com)  
+
+[![devssun's github stats](https://github-readme-stats.vercel.app/api?username=devssun)](https://github.com/devssun/github-readme-stats)
